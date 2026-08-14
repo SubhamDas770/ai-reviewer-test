@@ -1,0 +1,7 @@
+fastapi==0.115.12
+uvicorn==0.46.0
+PyGithub==2.3.0
+python-dotenv==1.1.0
+pydantic==2.11.3
+langchain==0.3.24
+langchain-ollama==0.3.2
